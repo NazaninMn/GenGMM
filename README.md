@@ -1,4 +1,7 @@
 # Setup Datasets
+
+![](figs/approach.png)
+
 Cityscapes: Please, download leftImg8bit_trainvaltest.zip and gt_trainvaltest.zip and extract them to data/cityscapes using the following link:
 https://www.cityscapes-dataset.com/downloads/
 
